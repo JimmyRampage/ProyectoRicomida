@@ -1,0 +1,46 @@
+/* 
+font-family: 'Cabin', sans-serif;
+font-family: 'Lobster', sans-serif;
+*/
+
+* {
+    font-family: 'Cabin';
+    color: #373A3C;
+}
+
+
+/* nav */
+.navbar {
+    background-color: #373A3C;
+}
+.navbar a{
+    color: #ffffff;
+}
+#nav-ricomida {
+    font-family: 'Lobster';
+}
+.navbar-toggler-icon {
+    color: #ffffff;
+}
+/* footer */
+#suscribete {
+    background-color: #dc3545;
+}
+
+#suscribete .row .col h2,
+#suscribete .row .col p {
+    color: #ffffff;
+}
+
+#suscribete span {
+    font-family: 'lobster';
+    color: #ffffff;
+}
+
+#foot-logo {
+    background-color: #373A3C;
+}
+#foot-logo h2 {
+    font-family: 'lobster';
+    color: #ffffff;
+}
